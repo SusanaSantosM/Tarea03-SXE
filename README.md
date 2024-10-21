@@ -83,9 +83,9 @@ Vamos a editar el archivo html del contenedor mio con el comando:
 
 ``sudo nano /home/susibel/compartida/index.html``
 
-![punto7.1](Imagenes/punto7_1.png)
+![punto7.1](Imagenes-Tarea03/punto7_1.png)
 
 Luego actualizamos las páginas y vemos la modificación en ambos servidores. 
 
-![punto5.2](Imagenes/punto7_2.png)
+![punto5.2](Imagenes-Tarea03/punto7_2.png)
 
