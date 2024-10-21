@@ -78,4 +78,14 @@ http://localhost:8000
 ![punto6.2](Imagenes-Tarea03/Punto4_3.png)
 
 
-### 7.- 
+### 7.- Realiza modificaciones de la página y comprueba que los dos servidores 'sirven' la misma página
+Vamos a editar el archivo html del contenedor mio con el comando:
+
+``sudo nano /home/susibel/compartida/index.html``
+
+![punto7.1](Imagenes/punto7_1.png)
+
+Luego actualizamos las páginas y vemos la modificación en ambos servidores. 
+
+![punto5.2](Imagenes/punto7_2.png)
+
