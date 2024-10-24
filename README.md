@@ -32,7 +32,7 @@ En la imagen podemos ver el mapeo que se hace con el IP y el puerto:
 ![punto3](Imagenes-Tarea03/punto3.png)
 
 
-### 4.- Utiliza bind mount para que el directorio del apache2 'htdocs' esté montado un directorio que tu elijas.Realiza un 'hola mundo' en html y comprueba que accedes desde el navegador.
+### 4.- Utiliza big mount para que el directorio del apache2 'htdocs' esté montado un directorio que tu elijas.Realiza un 'hola mundo' en html y comprueba que accedes desde el navegador.
 Creamos un archivo html de Hola Mundo en una carpeta, y creamos  un nuevo contenedor de ese archivo:
 
 
